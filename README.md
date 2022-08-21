@@ -1,10 +1,3 @@
----
-title: "A RaspberryPi Pico To-Do board using Micropython"
-date: 2021-02-02T18:25:12Z
-draft: false
-tags: ["blog", "howto", "raspberrypi", "raspberrypi pico", "python", "micropython", "electronics", "programming", "iot", "microcontroller"]
-cover: "/images/domachine.jpeg"
----
 Sometimes I need a little visual hint to do things, especially when it comes to little things that I should do on repeat, like dayli or even multiple times per day. 
 I'm not really someone who does a lot of sport, but I love to go bouldering. In my "best times" I went three times every week. A few weeks ago I injured my left leg and since then I was not able to go to the bouldering gym anymore. So, what did I do? Right, nothing.
 
